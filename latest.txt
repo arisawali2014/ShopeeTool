@@ -1,1 +1,1 @@
-1.0.2.6 https://updates.bobsrockets.com/rocket_control/1.2.3.4/Release.zip 4e1243bd22c66e76c2ba9eddc1f91394e57f9f83
+1.0.2.8 https://updates.bobsrockets.com/rocket_control/1.2.3.4/Release.zip 4e1243bd22c66e76c2ba9eddc1f91394e57f9f83
